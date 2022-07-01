@@ -9,6 +9,7 @@ I created a new Django project and used my Zuriboard Student ID as the name of t
 I added the blog app to the main_projects INSTALLED_APPS and created a new model in the blog app called "Post". It includes the following fields:
 
 
+
  Post
 
 --------
@@ -35,4 +36,4 @@ Lastly, I staged and Committed my Django project and pushed the changes to my Gi
 
 I also ensured that my final code/submission is on the default branch of my GitHub repository.
 
-##P.S : This is also one of my assignments for #I4GZuri Scholarship Program.
+## P.S : This is also one of my assignments for #I4GZuri Scholarship Program.
